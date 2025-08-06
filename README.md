@@ -1,30 +1,42 @@
-# 👋 Привет, я Dmytro — aka cy6erlem0n
+# 👋 Hi, I'm Dmytro — aka cy6erlem0n
 
-24 y.o. self-taught dev based in Berlin 🇩🇪  
-Работаю с Python, DevOps, Cybersecurity, Robotics, Vue.js, Django.  
-Ищу позицию в сфере IT: Backend / Sec / Automation / Tech Support
-
----
-
-## 🔧 Мои проекты
-
-| Название | Описание | Стек |
-|----------|----------|------|
-| [**invoicely**](https://github.com/cy6erlem0n/invoicely) | Учебное fullstack приложение для управления счетами | Django, DRF, Vue 3 |
-| [**backdoor**](https://github.com/cy6erlem0n/backdoor) | Reverse shell backdoor с шифрованием | Python, socket |
-| [**nao**](https://github.com/cy6erlem0n/nao) | Программирование NAO-робота с ALProxy | Python, NAOqi |
-| [**windows-core-infra**](https://github.com/cy6erlem0n/windows-core-infra) | Запуск Windows Server Core в KubeVirt + DSC | K8s, PowerShell, Infra-as-Code |
+24 y.o. self-taught developer based in Berlin 🇩🇪  
+Working with Python, DevOps, Cybersecurity, Robotics, Vue.js, Django  
+Looking for opportunities in IT: Backend / Security / Automation / Tech Support
 
 ---
 
-## 🧰 Стек
+## 🔧 My Projects
+
+| Name | Description | Stack |
+|------|-------------|-------|
+| [**invoicely**](https://github.com/cy6erlem0n/invoicely) | Fullstack invoice management app with user auth and dashboard | Django, DRF, Vue 3 |
+| [**backdoor**](https://github.com/cy6erlem0n/backdoor) | Reverse shell backdoor with AES encryption | Python, socket |
+| [**nao**](https://github.com/cy6erlem0n/nao) | Interactive storytelling robot app using NAOqi | Python, NAOqi |
+| [**windows-core-infra**](https://github.com/cy6erlem0n/windows-core-infra) | Windows Server Core automation in KubeVirt + DSC | K8s, PowerShell, Infra-as-Code |
+
+---
+
+## 🧰 Tech Stack
 
 `Python` `Django` `DRF` `Vue 3` `Docker` `Kubernetes` `Git` `NAO`  
 `Cybersecurity` `Pentesting` `DevOps` `Ansible` `Linux` `Windows Server`
 
 ---
 
-## 📫 Контакты
+## 📸 Featured Project: Invoicely
 
-- Telegram: [@cy6erlem0n](https://t.me/cy6erlem0n)
+> A simple fullstack invoice management app built with Django + Vue.js
+
+![Dashboard](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/dashboard.png)
+![Invoices](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/invoices.png)
+![Add Invoice](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/add_invoice.png)
+![Add Client](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/add_client.png)
+![Login](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/login.png)
+
+---
+
+## 📫 Contact
+
+- Telegram: [@cy6erlem0n](https://t.me/cy6erlem0n)  
 - Email: dmytriy.drozd.2014@gmail.com
