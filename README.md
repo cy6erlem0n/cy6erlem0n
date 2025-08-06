@@ -24,18 +24,6 @@ Looking for opportunities in IT: Backend / Security / Automation / Tech Support
 
 ---
 
-## 📸 Featured Project: Invoicely
-
-> A simple fullstack invoice management app built with Django + Vue.js
-
-![Dashboard](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/dashboard.png)
-![Invoices](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/invoices.png)
-![Add Invoice](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/add_invoice.png)
-![Add Client](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/add_client.png)
-![Login](https://raw.githubusercontent.com/cy6erlem0n/invoicely/main/screenshots/login.png)
-
----
-
 ## 📫 Contact
 
 - Telegram: [@cy6erlem0n](https://t.me/cy6erlem0n)  
