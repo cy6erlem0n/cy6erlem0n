@@ -28,4 +28,5 @@ Looking for opportunities in IT: Backend / Security / Automation / Tech Support
 
 - Telegram: [@cy6erlem0n](https://t.me/cy6erlem0n)  
 - Email: dmytriy.drozd.2014@gmail.com
-- [Linkedin](www.linkedin.com/in/dmytro-drozd-2796a32a3)
+- [LinkedIn](https://www.linkedin.com/in/dmytro-drozd-2796a32a3)
+
