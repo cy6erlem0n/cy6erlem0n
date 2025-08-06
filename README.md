@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dmytro — aka cy6erlem0n
 
 24 y.o. self-taught developer based in Berlin 🇩🇪  
-Working with Python, DevOps, Cybersecurity, Robotics, Vue.js, Django  
+Working with Python, DevOps, Cybersecurity, Automation, Vue.js, Django  
 Looking for opportunities in IT: Backend / Security / Automation / Tech Support
 
 ---
