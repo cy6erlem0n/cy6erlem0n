@@ -12,8 +12,8 @@ Looking for opportunities in IT: Backend / Security / Automation / Tech Support
 |------|-------------|-------|
 | [**invoicely**](https://github.com/cy6erlem0n/invoicely) | Fullstack invoice management app with user auth and dashboard | Django, DRF, Vue 3 |
 | [**backdoor**](https://github.com/cy6erlem0n/backdoor) | Reverse shell backdoor with AES encryption | Python, socket |
-| [**nao**](https://github.com/cy6erlem0n/nao) | Interactive storytelling robot app using NAOqi | Python, NAOqi |
 | [**windows-core-infra**](https://github.com/cy6erlem0n/windows-core-infra) | Windows Server Core automation in KubeVirt + DSC | K8s, PowerShell, Infra-as-Code |
+| [**broteforcer**](https://github.com/cy6erlem0n/broteforcer) | Multi-threaded HTTP Basic Auth brute-forcing tool | Python, threading, requests |
 
 ---
 
